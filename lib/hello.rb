@@ -1,4 +1,5 @@
 def hello_t(array)
+  
   i = 0
   
   while i < array.length 
@@ -10,6 +11,4 @@ def hello_t(array)
 end
 
 # call your method here!
-
-hello_t(["Tim", "Tom", "Jim"]) 
 
